@@ -4,7 +4,7 @@
 // Check if the game is not paused
 
 
-draw_set_font(fnt_main2); // Set the font for the timer text
+draw_set_font(fnt_menu); // Set the font for the timer text
 draw_set_color(c_white); // Set the color for the timer text
 
 minutes = string(floor(timer / room_speed / 60)); // Calculate minutes

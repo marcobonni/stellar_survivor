@@ -1,9 +1,12 @@
 /// @description Inserisci qui la descrizione
 //Puoi scrivere il tuo codice in questo editor
 
+image_alpha = 0.6;
+
+y -= anim_mov;
+image_index = 1;
+
+color = c_yellow;
 
 
-
-// Step Event (or wherever appropriate)
-timer += 1; // Increase timer by 1 each step
 

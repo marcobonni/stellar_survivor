@@ -4,6 +4,13 @@
 
 
 
-// Step Event (or wherever appropriate)
-timer += 1; // Increase timer by 1 each step
+
+
+
+
+
+
+
+// Inherit the parent event
+event_inherited();
 

@@ -4,6 +4,9 @@
 
 
 
-// Step Event (or wherever appropriate)
-timer += 1; // Increase timer by 1 each step
+
+image_alpha = 1
+image_index = 0;
+y += anim_mov;
+color = c_white;
 

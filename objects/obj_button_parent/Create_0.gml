@@ -3,7 +3,10 @@
 
 
 
+anim_mov = 5;
+color = c_white;
 
-// Step Event (or wherever appropriate)
-timer += 1; // Increase timer by 1 each step
+
+
+
 
