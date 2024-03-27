@@ -145,13 +145,5 @@ y += y_speed;
 
 depth = -bbox_bottom;
  
- hp += regen;
- 
-
-
-if (hp <= 0) {
-	regen = 0;
-	draw_text(200, 200, "game over")
-}
 
 

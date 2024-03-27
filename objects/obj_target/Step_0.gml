@@ -52,7 +52,7 @@ if (spawn_timer <= 0 && instance_number(obj_target) < max_instances) {
 
 }
 
-// Check for collisions with obj_ammo and destroy instances
+
 
 
 
@@ -65,3 +65,8 @@ var new_x = x + lengthdir_x(move_speed, direction_to_hero);
 var new_y = y + lengthdir_y(move_speed, direction_to_hero);
 x = new_x;
 y = new_y;
+
+
+if place_meeting(x, y, obj_ammo) {
+	instance_destroy();
+}

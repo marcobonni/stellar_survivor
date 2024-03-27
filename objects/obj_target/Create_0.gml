@@ -3,9 +3,9 @@ max_instances = 100;
 
 // Timer variables
 spawn_timer = 0; // Current value of the timer
-spawn_delay = 60; // Delay in steps (adjust as needed)
+spawn_delay = 30; // Delay in steps (adjust as needed)
 
-move_speed = 2;
+move_speed = random_range(0.1, 5);
 
 buffer = 100;
 

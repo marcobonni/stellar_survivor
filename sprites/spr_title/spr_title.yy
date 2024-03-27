@@ -48,8 +48,8 @@
   },
   "origin": 4,
   "parent": {
-    "name": "asteroid destroyer",
-    "path": "asteroid destroyer.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

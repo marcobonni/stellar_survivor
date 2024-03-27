@@ -5,6 +5,8 @@
 
 anim_mov = 5;
 color = c_white;
+image_index = 0;
+image_speed = 0;
 
 
 

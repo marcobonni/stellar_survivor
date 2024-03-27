@@ -56,7 +56,7 @@
     ],
     "top": 0,
   },
-  "origin": 3,
+  "origin": 5,
   "parent": {
     "name": "missile",
     "path": "folders/Sprites/missile.yy",
@@ -102,7 +102,7 @@
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 0,
+    "xorigin": 90,
     "yorigin": 15,
   },
   "swatchColours": null,
